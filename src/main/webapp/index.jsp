@@ -2,8 +2,8 @@
 <body>
 
 
-<h1>Welcome ......</h1>
-<h2>Hello ....... </h2>
+<h1>Welcome 2</h1>
+<h2>Hello 2 </h2>
 
 
 </body>
